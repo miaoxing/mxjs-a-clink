@@ -1,7 +1,7 @@
-import React from "react";
+import React from 'react';
 import {connect} from 'formik';
-import {Button} from "react-bootstrap";
-import curUrl from "@mxjs/cur-url";
+import {Button} from 'react-bootstrap';
+import curUrl from '@mxjs/cur-url';
 
 @connect
 export default class CExportBtn extends React.Component {
