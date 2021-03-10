@@ -14,5 +14,11 @@
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org/"
+  },
+  "dependencies": {
+    "@mxjs/a-button": "^0.2.6"
+  },
+  "devDependencies": {
+    "@miaoxing/dev": "^6.3.2"
   }
 }
