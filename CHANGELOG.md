@@ -1,3 +1,10 @@
+## [0.1.2](https://github.com/miaoxing/mxjs-a-clink/compare/v0.1.1...v0.1.2) (2021-03-10)
+
+
+### Bug Fixes
+
+* 增加 `@mxjs/a-button` 依赖 ([9bf4e48](https://github.com/miaoxing/mxjs-a-clink/commit/9bf4e483b6b8f1eae0136b7047a41a53c968e760))
+
 ## [0.1.1](https://github.com/miaoxing/mxjs-a-clink/compare/v0.1.0...v0.1.1) (2021-03-10)
 
 
