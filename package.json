@@ -3,6 +3,14 @@
   "version": "0.1.0",
   "main": "index.js",
   "license": "MIT",
+  "files": [
+    "CDeleteLink.js",
+    "CEditLink.js",
+    "CExportBtn.js",
+    "CListBtn.js",
+    "CNewBtn.js",
+    "index.js"
+  ],
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org/"
