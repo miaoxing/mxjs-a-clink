@@ -16,6 +16,9 @@
     "registry": "https://registry.npmjs.org/"
   },
   "dependencies": {
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-bootstrap": "^1.0.0",
     "@mxjs/a-button": "^0.2.7"
   },
   "devDependencies": {
