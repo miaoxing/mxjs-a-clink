@@ -1,3 +1,19 @@
+## [0.1.4](https://github.com/miaoxing/mxjs-a-clink/compare/v0.1.3...v0.1.4) (2021-03-12)
+
+
+### Bug Fixes
+
+* 更新前端包依赖 ([aa852ab](https://github.com/miaoxing/mxjs-a-clink/commit/aa852ab32ef229156a20986e392ac743ce1a7582))
+
+
+
+
+
+### Dependencies
+
+* **@mxjs/a-button:** upgrade from `0.2.7` to `0.2.8`
+* **@miaoxing/dev:** upgrade from `6.3.2` to `6.3.3`
+
 ## [0.1.3](https://github.com/miaoxing/mxjs-a-clink/compare/v0.1.2...v0.1.3) (2021-03-11)
 
 
