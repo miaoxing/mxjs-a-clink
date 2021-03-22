@@ -1,6 +1,6 @@
 {
   "name": "@mxjs/a-clink",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "main": "index.js",
   "license": "MIT",
   "files": [
@@ -19,9 +19,9 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-bootstrap": "^1.0.0",
-    "@mxjs/a-button": "^0.2.8"
+    "@mxjs/a-button": "^0.2.9"
   },
   "devDependencies": {
-    "@miaoxing/dev": "^6.3.3"
+    "@miaoxing/dev": "^6.3.4"
   }
 }
