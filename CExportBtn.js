@@ -2,9 +2,14 @@ import React from 'react';
 import {connect} from 'formik';
 import {Button} from 'react-bootstrap';
 import curUrl from '@mxjs/cur-url';
+import PropTypes from 'prop-types';
 
-@connect
-export default class CExportBtn extends React.Component {
+export default @connect
+class CExportBtn extends React.Component {
+  static propTypes = {
+    formik: PropTypes.object,
+  };
+
   exportCsv = () => {
     window.location = curUrl.index(Object.assign(this.props.formik.values, {
       page: 1,
