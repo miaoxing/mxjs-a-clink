@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CNewBtn basic 1`] = `
+<div>
+  <a
+    class="btn btn-success"
+    href="/"
+  >
+    添 加
+  </a>
+</div>
+`;
