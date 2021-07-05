@@ -1,4 +1,3 @@
-import React from 'react';
 import {ListBtn} from '@mxjs/a-button';
 import curUrl from '@mxjs/cur-url';
 

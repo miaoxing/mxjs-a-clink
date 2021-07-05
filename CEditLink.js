@@ -1,4 +1,3 @@
-import React from 'react';
 import {EditLink} from '@mxjs/a-button';
 import curUrl from '@mxjs/cur-url';
 import PropTypes from 'prop-types';
