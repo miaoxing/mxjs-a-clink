@@ -1,3 +1,25 @@
+# [0.2.0](https://github.com/miaoxing/mxjs-a-clink/compare/v0.1.8...v0.2.0) (2021-10-28)
+
+
+### Features
+
+* `react` 依赖移到 `peerDependencies` 中，开发依赖使用 `react` 17 ([88d40ed](https://github.com/miaoxing/mxjs-a-clink/commit/88d40edab97fd5aa0a1526cdaa233d9e18ab999d))
+
+
+### BREAKING CHANGES
+
+* `react` 依赖移到 `peerDependencies` 中，开发依赖使用 `react` 17
+
+
+
+
+
+### Dependencies
+
+* **@mxjs/cur-url:** upgrade from `0.2.12` to `0.2.13`
+* **@mxjs/a-button:** upgrade from `0.2.12` to `0.3.0`
+* **@miaoxing/dev:** upgrade from `7.0.1` to `8.0.0`
+
 ## [0.1.8](https://github.com/miaoxing/mxjs-a-clink/compare/v0.1.7...v0.1.8) (2021-05-12)
 
 
