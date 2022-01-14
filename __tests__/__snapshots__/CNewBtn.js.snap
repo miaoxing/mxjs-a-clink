@@ -3,10 +3,12 @@
 exports[`CNewBtn basic 1`] = `
 <div>
   <a
-    class="btn btn-success"
+    class="ant-btn ant-btn-success"
     href="/"
   >
-    添 加
+    <span>
+      添 加
+    </span>
   </a>
 </div>
 `;
