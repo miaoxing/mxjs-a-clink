@@ -1,3 +1,13 @@
+## [0.2.6](https://github.com/miaoxing/mxjs-a-clink/compare/v0.2.5...v0.2.6) (2022-06-06)
+
+
+
+
+
+### Dependencies
+
+* **@mxjs/cur-url:** upgrade from `0.2.18` to `0.2.19`
+
 ## [0.2.5](https://github.com/miaoxing/mxjs-a-clink/compare/v0.2.4...v0.2.5) (2022-06-01)
 
 
