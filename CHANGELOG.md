@@ -1,3 +1,20 @@
+# [1.0.0](https://github.com/miaoxing/mxjs-a-clink/compare/v0.2.6...v1.0.0) (2022-07-01)
+
+
+### Features
+
+* 发布 1.0.0 [release 1.0.0] ([4089875](https://github.com/miaoxing/mxjs-a-clink/commit/4089875e58ba71dd230da755be90d03cfc9ef14b))
+
+
+
+
+
+### Dependencies
+
+* **@mxjs/cur-url:** upgrade from `0.2.19` to `1.0.0`
+* **@mxjs/a-button:** upgrade from `0.4.2` to `1.0.0`
+* **@miaoxing/dev:** upgrade from `8.1.1` to `8.1.2`
+
 ## [0.2.6](https://github.com/miaoxing/mxjs-a-clink/compare/v0.2.5...v0.2.6) (2022-06-06)
 
 

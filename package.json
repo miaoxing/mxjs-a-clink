@@ -19,15 +19,15 @@
     "preset": "jest-preset-miaoxing"
   },
   "dependencies": {
-    "@mxjs/cur-url": "^0.2.19",
+    "@mxjs/cur-url": "^1.0.0",
     "react-router": "^5.2.0",
     "react-router-dom": "^5.2.0",
     "react-bootstrap": "^1.0.0",
-    "@mxjs/a-button": "^0.4.2",
+    "@mxjs/a-button": "^1.0.0",
     "prop-types": "^15.7.2"
   },
   "devDependencies": {
-    "@miaoxing/dev": "^8.1.1",
+    "@miaoxing/dev": "^8.1.2",
     "@testing-library/react": "^11.2.6",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
