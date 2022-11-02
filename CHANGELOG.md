@@ -1,3 +1,13 @@
+## [1.1.1](https://github.com/miaoxing/mxjs-a-clink/compare/v1.1.0...v1.1.1) (2022-11-02)
+
+
+
+
+
+### Dependencies
+
+* **@mxjs/a-button:** upgrade from `1.1.0` to `1.1.1`
+
 # [1.1.0](https://github.com/miaoxing/mxjs-a-clink/compare/v1.0.1...v1.1.0) (2022-11-01)
 
 
