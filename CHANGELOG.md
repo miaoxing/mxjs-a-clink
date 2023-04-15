@@ -1,3 +1,19 @@
+# [1.2.0](https://github.com/miaoxing/mxjs-a-clink/compare/v1.1.4...v1.2.0) (2023-04-15)
+
+
+### Features
+
+* 带参数的链接生成 `permission` 简化权限判断 ([8a780bc](https://github.com/miaoxing/mxjs-a-clink/commit/8a780bc15804940dae4116a7d0941a94bcfed74f))
+* 链接按钮增加 `getPermissions` 方法，以便父组件过滤无权限的子组件 ([3177206](https://github.com/miaoxing/mxjs-a-clink/commit/317720635ccbcf42b7dc6d803f2555578f887523))
+
+
+
+
+
+### Dependencies
+
+* **@mxjs/a-button:** upgrade from `1.2.0` to `1.3.0`
+
 ## [1.1.4](https://github.com/miaoxing/mxjs-a-clink/compare/v1.1.3...v1.1.4) (2023-01-31)
 
 
