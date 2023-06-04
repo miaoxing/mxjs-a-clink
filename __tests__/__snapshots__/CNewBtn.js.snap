@@ -3,7 +3,7 @@
 exports[`CNewBtn basic 1`] = `
 <div>
   <a
-    class="ant-btn ant-btn-success"
+    class="ant-btn ant-btn-primary"
     href="/"
   >
     <span>
