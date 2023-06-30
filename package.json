@@ -1,6 +1,6 @@
 {
   "name": "@mxjs/a-clink",
-  "version": "1.2.2",
+  "version": "2.0.0",
   "main": "index.js",
   "license": "MIT",
   "engines": {
@@ -14,11 +14,11 @@
     "preset": "jest-preset-miaoxing"
   },
   "dependencies": {
-    "@mxjs/cur-url": "^1.0.4",
+    "@mxjs/cur-url": "^1.0.5",
     "react-router": "^5.2.0",
     "react-router-dom": "^5.2.0",
     "react-bootstrap": "^1.0.0",
-    "@mxjs/a-button": "^2.0.0",
+    "@mxjs/a-button": "^3.0.0",
     "prop-types": "^15.7.2"
   },
   "devDependencies": {

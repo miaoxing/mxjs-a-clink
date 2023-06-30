@@ -1,3 +1,24 @@
+# [2.0.0](https://github.com/miaoxing/mxjs-a-clink/compare/v1.2.2...v2.0.0) (2023-06-30)
+
+
+### Features
+
+* **a-clink:** 指定 node >= 12 ([470f908](https://github.com/miaoxing/mxjs-a-clink/commit/470f908c5d33b2e52ca21c87620d5d6a45bee7c4))
+
+
+### BREAKING CHANGES
+
+* **a-clink:** 指定 node >= 12
+
+
+
+
+
+### Dependencies
+
+* **@mxjs/cur-url:** upgrade from `1.0.4` to `1.0.5`
+* **@mxjs/a-button:** upgrade from `2.0.0` to `3.0.0`
+
 ## [1.2.2](https://github.com/miaoxing/mxjs-a-clink/compare/v1.2.1...v1.2.2) (2023-05-31)
 
 
