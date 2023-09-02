@@ -1,3 +1,15 @@
+## [2.0.2](https://github.com/miaoxing/mxjs-a-clink/compare/v2.0.1...v2.0.2) (2023-09-02)
+
+
+
+
+
+### Dependencies
+
+* **@mxjs/cur-url:** upgrade from `1.0.6` to `1.0.7`
+* **@mxjs/a-button:** upgrade from `3.0.1` to `3.0.2`
+* **@miaoxing/dev:** upgrade from `8.2.2` to `8.2.3`
+
 ## [2.0.1](https://github.com/miaoxing/mxjs-a-clink/compare/v2.0.0...v2.0.1) (2023-07-31)
 
 
