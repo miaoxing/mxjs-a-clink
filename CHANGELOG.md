@@ -1,3 +1,18 @@
+# [2.1.0](https://github.com/miaoxing/mxjs-a-clink/compare/v2.0.5...v2.1.0) (2024-01-31)
+
+
+### Features
+
+* 更新 `react` 支持 18 ([931aece](https://github.com/miaoxing/mxjs-a-clink/commit/931aecea9738b8c78b15bdb1cb22a6ac211083e1))
+
+
+
+
+
+### Dependencies
+
+* **@mxjs/a-button:** upgrade from `3.0.5` to `3.1.0`
+
 ## [2.0.5](https://github.com/miaoxing/mxjs-a-clink/compare/v2.0.4...v2.0.5) (2024-01-08)
 
 
