@@ -5,6 +5,7 @@ exports[`CNewBtn basic 1`] = `
   <a
     class="ant-btn ant-btn-primary"
     href="/"
+    tabindex="0"
   >
     <span>
       添 加
