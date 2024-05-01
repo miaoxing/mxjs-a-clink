@@ -1,3 +1,24 @@
+# [3.0.0](https://github.com/miaoxing/mxjs-a-clink/compare/v2.1.2...v3.0.0) (2024-05-01)
+
+
+### Features
+
+* 更新 `react-router` 到 v6 ([2629807](https://github.com/miaoxing/mxjs-a-clink/commit/26298071ee3eae23c5adaab28355bf3bfd947513))
+
+
+### BREAKING CHANGES
+
+* 更新 `react-router` 到 v6
+
+
+
+
+
+### Dependencies
+
+* **@mxjs/cur-url:** upgrade from `1.0.11` to `1.0.12`
+* **@mxjs/a-button:** upgrade from `3.2.1` to `4.0.0`
+
 ## [2.1.2](https://github.com/miaoxing/mxjs-a-clink/compare/v2.1.1...v2.1.2) (2024-03-31)
 
 
