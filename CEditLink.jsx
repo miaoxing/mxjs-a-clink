@@ -5,7 +5,7 @@ import PropTypes from 'prop-types';
 const getPermission = () => curUrl.edit('[id]');
 
 const CEditLink = ({id, ...props}) => (
-  <EditLink permission={getPermission()} href={curUrl.edit(id)} {...props} />
+  <EditLink permission={getPermission()} to={curUrl.edit(id)} {...props} />
 );
 
 CEditLink.propTypes = {

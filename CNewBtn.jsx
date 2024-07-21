@@ -4,7 +4,7 @@ import curUrl from '@mxjs/cur-url';
 const getPermission = () => curUrl.new();
 
 const CNewBtn = (props) => (
-  <NewBtn href={getPermission()} {...props}/>
+  <NewBtn to={getPermission()} {...props}/>
 );
 
 CNewBtn.getPermission = getPermission;
