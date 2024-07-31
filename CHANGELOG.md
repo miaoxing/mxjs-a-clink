@@ -1,3 +1,20 @@
+## [3.0.2](https://github.com/miaoxing/mxjs-a-clink/compare/v3.0.1...v3.0.2) (2024-07-31)
+
+
+### Bug Fixes
+
+* `export default from` 改为标准语法 ([79f4b95](https://github.com/miaoxing/mxjs-a-clink/commit/79f4b9574da589d46f0adb6e9009f7d21a632264))
+
+
+
+
+
+### Dependencies
+
+* **@mxjs/cur-url:** upgrade from `1.0.13` to `1.0.14`
+* **@mxjs/a-button:** upgrade from `4.0.1` to `5.0.0`
+* **@miaoxing/dev:** upgrade from `9.1.1` to `9.1.2`
+
 ## [3.0.1](https://github.com/miaoxing/mxjs-a-clink/compare/v3.0.0...v3.0.1) (2024-05-30)
 
 
