@@ -1,6 +1,6 @@
 {
   "name": "@mxjs/a-clink",
-  "version": "3.0.5",
+  "version": "3.0.6",
   "main": "index.js",
   "license": "MIT",
   "engines": {
@@ -18,7 +18,7 @@
     "react-router": "^6",
     "react-router-dom": "^6",
     "react-bootstrap": "^1.0.0",
-    "@mxjs/a-button": "^5.1.0",
+    "@mxjs/a-button": "^5.2.0",
     "prop-types": "^15.7.2"
   },
   "devDependencies": {
