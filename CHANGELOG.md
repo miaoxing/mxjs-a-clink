@@ -1,3 +1,20 @@
+## [3.0.8](https://github.com/miaoxing/mxjs-a-clink/compare/v3.0.7...v3.0.8) (2024-12-30)
+
+
+### Bug Fixes
+
+* 链接按钮移除不再使用的 `getPermissions` 方法 ([6bfedf1](https://github.com/miaoxing/mxjs-a-clink/commit/6bfedf12c0d968856c6c7c79ee0e8bc1fb7245df))
+
+
+
+
+
+### Dependencies
+
+* **@mxjs/cur-url:** upgrade from `1.0.18` to `2.0.0`
+* **@mxjs/a-button:** upgrade from `5.2.0` to `5.2.1`
+* **@miaoxing/dev:** upgrade from `9.2.0` to `9.3.0`
+
 ## [3.0.7](https://github.com/miaoxing/mxjs-a-clink/compare/v3.0.6...v3.0.7) (2024-11-01)
 
 
