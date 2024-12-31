@@ -4,7 +4,7 @@ exports[`CNewBtn basic 1`] = `
 <div>
   <a
     class="ant-btn ant-btn-primary"
-    href="/"
+    href="/new"
     tabindex="0"
   >
     <span>
